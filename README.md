@@ -47,6 +47,7 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[14] What is edge computing](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/)  
 [[15] Rate Limit Requests with Iptables](https://blog.programster.org/rate-limit-requests-with-iptables)  
 [[16] OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_architecture)  
+
   
 ## Chapter 5: Design Consistent Hashing  
   
