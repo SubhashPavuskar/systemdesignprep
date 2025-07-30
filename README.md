@@ -18,6 +18,7 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[13] What it takes to run Stack Overflow](http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow)  
 [[14] What The Heck Are You Actually Using NoSQL For](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)  
 
+
   
 ## Chapter 2: Back-of-the-envelope Estimation  
   
