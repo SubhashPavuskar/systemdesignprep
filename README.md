@@ -19,6 +19,7 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 
 
 
+
 ## Chapter 2: Back-of-the-envelope Estimation  
   
 [[1] J. Dean.Google Pro Tip - Use Back-Of-The-Envelope-Calculations To Choose The Best Design](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)  
