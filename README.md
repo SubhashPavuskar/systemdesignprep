@@ -24,7 +24,6 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[4] Amazon Compute Service Level Agreement](https://aws.amazon.com/compute/sla/)  
 [[5] Compute Engine Service Level Agreement (SLA)](https://cloud.google.com/compute/sla)  
 [[6] SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)  
-
   
 ## Chapter 4: Design A Rate Limiter:  
   
