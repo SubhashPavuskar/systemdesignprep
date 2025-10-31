@@ -26,7 +26,6 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[6] SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)  
   
 ## Chapter 4: Design A Rate Limiter:  
-  
 [[1] Rate-limiting strategies and techniques](https://cloud.google.com/solutions/rate-limiting-strategies-techniques)  
 [[2] Twitter rate limits](https://developer.twitter.com/en/docs/basics/rate-limits)  
 [[3] Google docs usage limits](https://developers.google.com/docs/api/limits)  
