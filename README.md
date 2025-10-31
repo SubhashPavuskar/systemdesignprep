@@ -45,7 +45,7 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[16] OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_architecture)  
 
   
-## Chapter 5: Design Consistent Hashing  
+## Chapter 5: Design Consistent Hashing
   
 [[1] Consistent hashing wiki](https://en.wikipedia.org/wiki/Consistent_hashing)  
 [[2] Consistent Hashing](https://tom-e-white.com/2007/11/consistent-hashing.html)  
